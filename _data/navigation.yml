@@ -7,9 +7,7 @@ main:
     url: /teaching/  
 
   - title: "Interesting Readings"  
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /interesting-readings/
         
   - title: "CV"
     url: /cv/
