@@ -11,14 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Gretchen Whitney High School (UW GPA: 4.0), Valedictorian 
+  * AP Coursework: Calculus BC, Physics C: Mechanics, Chemistry, Biology, Statistics, Computer Science Principles, Spanish, Psychology, English Language and Composition, English Literature and Composition, United States History
+  * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
+* B.S. in Quantitative Biology, University of Southern California, 2025 (Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Data Science Researcher (August 2021- Present)
+  * City of Los Angeles, NASA
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
