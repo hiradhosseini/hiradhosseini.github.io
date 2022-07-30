@@ -1,5 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "COMPARISON IN QUANTITATIVE CORONARY CALCIFIED PLAQUE
+BURDEN BETWEEN FILTER BACK PROJECTION AND ITERATIVE
+RECONSTRUCTION ALGORISM USING SCAN WITH VARIOUS EXPOSURE
+DOSAGE"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
