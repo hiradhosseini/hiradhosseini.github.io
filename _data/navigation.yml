@@ -1,16 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Projects"
-    url: /teaching/  
+  - title: "Publications"
+    url: /publications/ 
 
   - title: "Interesting Readings"  
     url: /interesting-readings/
-        
-  - title: "CV"
-    url: /cv/
     
   - title: "Guides"
     url: /markdown/
