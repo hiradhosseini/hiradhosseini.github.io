@@ -8,5 +8,5 @@ venue: 'Journal of Cardiovascular Computed Tomography'
 paperurl: 'http://hiradhosseini.github.io/files/paper3.pdf'
 citation: 'Mao et al. (2021). &quot;Both Vertebral Bone Mineral Density and Presence or Growth of Schmorl's Node Are Important Pedictors for Future Vertebral Fracture.&quot; <i>Journal of Cardiovascular Computed Tomography</i>. 15(3).'
 ---
-[Download paper here](http://hiradhossein.github.io/files/paper3.pdf)
+[Download paper here](http://hiradhosseini.github.io/files/paper3.pdf)
 
