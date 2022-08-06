@@ -8,5 +8,7 @@ venue: 'Journal of Cardiovascular Computed Tomography'
 paperurl: 'http://hiradhosseini.github.io/files/paper4.pdf'
 citation: 'Mao et al. (2021). "Ability of Assessing Osteoporosis and Osteoporotic Vertebral Fracture in the General Population When Using Thoracic Quantitative Computed Tomography: A Comparison Study Between Low-Dose Thoracic Quantitative Computed Tomography and Lumbar Dual-Energy X-Ray Absorptiometry." <i>Journal of Cardiovascular Computed Tomography</i>. 15(3).'
 ---
+Ability of Assessing Osteoporosis and Osteoporotic Vertebral Fracture in the General Population When Using Thoracic Quantitative Computed Tomography: A Comparison Study Between Low-Dose Thoracic Quantitative Computed Tomography and Lumbar Dual-Energy X-Ray Absorptiometry
+
 [Download paper here](http://hiradhosseini.github.io/files/paper4.pdf)
 
