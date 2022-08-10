@@ -55,7 +55,9 @@ Extracurricular Involvement
 
 Skills
 ======
-* Machine Learning, Deep Learning (TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib)
+* Machine Learning, Deep Learning 
+  * Tools
+    * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
 * Programming Languages
   * Python
   * C++
