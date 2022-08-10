@@ -1,14 +1,14 @@
 ---
-title: "Comparison In Quantitative Coronary Calcified Plaque Burden Between Filter Back Projection and Iterative Reconstruction Algorithm Using Scan With Various Exposure Dosage"
+title: "Both Vertebral Bone Mineral Density and Presence or Growth of Schmorl's Node Are Important Pedictors for Future Vertebral Fracture"
 collection: publications
 permalink: /publication/2020-07-01
-excerpt: 'Observed a statistically significant decrease in Agatston score and plaque burden volume when comparing Iterative Reconstruction (IR) algorithm scans to Filter Back Projection (FBP) scans across all five groups with varying electric current products ranging from 17 to 75 mAs. This finding suggests the necessity of calibrating coronary calcium scores derived from IR scans based on exposure dosage.'
+excerpt: 'Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorl's Node presence/growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorl's Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorl's Node presence and vertebral BMD were shown to be associated with VF.'
 date: 2020-07-01
 venue: 'Journal of Cardiovascular Computed Tomography'
-paperurl: 'http://hiradhosseini.github.io/files/paper1.pdf'
+paperurl: 'http://hiradhosseini.github.io/files/paper3.pdf'
 citation: 'Mao et al. (2020). &quot;Comparison In Quantitative Coronary Calcified Plaque Burden Between Filter Back Projection and Iterative Reconstruction Algorithm Using Scan With Various Exposure Dosage.&quot; <i>Journal of Cardiovascular Computed Tomography</i>. 14(3).'
 ---
-Observed a statistically significant decrease in Agatston score and plaque burden volume when comparing Iterative Reconstruction (IR) algorithm scans to Filter Back Projection (FBP) scans across all five groups with varying electric current products ranging from 17 to 75 mAs. This finding suggests the necessity of calibrating coronary calcium scores derived from IR scans based on exposure dosage.
+Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorl's Node presence/growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorl's Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorl's Node presence and vertebral BMD were shown to be associated with VF.
 
-[Download paper here](http://hiradhosseini.github.io/files/paper1.pdf)
+[Download paper here](http://hiradhosseini.github.io/files/paper3.pdf)
 
