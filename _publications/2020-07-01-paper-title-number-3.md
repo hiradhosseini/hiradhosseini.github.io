@@ -1,14 +1,14 @@
 ---
-title: "Both Vertebral Bone Mineral Density and Presence or Growth of Schmorl's Node Are Important Pedictors for Future Vertebral Fracture"
+title: "Both Vertebral Bone Mineral Density and Presence or Growth of Schmorls Node Are Important Pedictors for Future Vertebral Fracture"
 collection: publications
-permalink: /publication/2010-10-10
-excerpt: 'Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorl's Node presence/growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorl's Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorl's Node presence and vertebral BMD were shown to be associated with VF.'
-date: 2010-10-10
+permalink: /publication/2020-07-01
+excerpt: 'Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorls Node presence growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorls Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorls Node presence and vertebral BMD were shown to be associated with VF.'
+date: 2020-07-01
 venue: 'Journal of Cardiovascular Computed Tomography'
 paperurl: 'http://hiradhosseini.github.io/files/paper3.pdf'
-citation: 'Mao et al. (2021). "Both Vertebral Bone Mineral Density and Presence or Growth of Schmorl's Node Are Important Pedictors for Future Vertebral Fracture." <i>Journal of Cardiovascular Computed Tomography</i>. 15(3).'
+citation: 'Mao et al. (2020). &quot;Comparison In Quantitative Coronary Calcified Plaque Burden Between Filter Back Projection and Iterative Reconstruction Algorithm Using Scan With Various Exposure Dosage.&quot; <i>Journal of Cardiovascular Computed Tomography</i>. 14(3).'
 ---
-Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorl's Node presence/growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorl's Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorl's Node presence and vertebral BMD were shown to be associated with VF.
+Investigated the relationship between thoracic vertebral bone mineral density (BMD), Schmorls Node presence/growth and presence of vertebral fracture in 3409 consecutive patients (1730 F) who underwent non-contrast heart and chest CT scans. Schmorls Node prevalence increased progressively with advanced age and was inversely related to BMD. Both Schmorls Node presence and vertebral BMD were shown to be associated with VF.
 
 [Download paper here](http://hiradhosseini.github.io/files/paper3.pdf)
 
