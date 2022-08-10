@@ -25,7 +25,7 @@ Work Experience
   * My work focuses on leveraging city-wide low-cost sensor data and state of the art machine learning and artificial intelligence approaches to construct the first Digital Twin City of Los Angeles. Building the first DTC of the city can glean valuable insights into the factors causing air pollution in the city, giving way for machine learning-modulated evidence-based policymaking and governance to ameliorate the iminent health, economic and environmental threats of deteriorating air quality.
   * Supervisor: Professor Mohammad Pourhomayoun
 
-* <i>Student Researcher: Lundquist Institute for Biomedical Innovation, affiliated with Harbor-UCLA Medical Center (June 2018- May 2021)</i>
+* <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/), affiliated with Harbor-UCLA Medical Center (June 2018- May 2021)</i>
   * Involved in 3 projects comparing chest QCT to DXA scans for measuring bone mineral density and vertebral fractures 
   * Six abstracts presented at  Society of Cardiovascular Computed Tomography
   * Participated  in the Summer High School Fellows Program (June 2020) to present obesity and COVID-19 comorbidity research under Dr. Mina Desai, PhD
