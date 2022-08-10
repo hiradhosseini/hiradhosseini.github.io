@@ -55,9 +55,13 @@ Extracurricular Involvement
 
 Skills
 ======
-* Machine Learning, Deep Learning 
+* Deep Learning 
   * Tools
     * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
+* Reinforcement Learning
+  * OpenAI Gym
+* Spatial Data Science
+  * CartoPy, Fiona, Geopandas, EarthPy
 * Programming Languages
   * Python
   * C++
