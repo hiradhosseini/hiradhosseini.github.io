@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/ 
 
-  - title: "Interesting Readings"  
-    url: /interesting-readings/
+  - title: "Talks"  
+    url: /talks/
     
   - title: "Guides"
     url: /markdown/
