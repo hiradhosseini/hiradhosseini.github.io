@@ -1,7 +1,7 @@
 ---
 title: "Cryptococcus gattii and its Distinctive Yeast Morphology in Cerebrospinal Fluid Cytology"
 collection: publications
-permalink: /publication/2020-07-01
+permalink: /publication/2020-cryptococcus
 excerpt: 'Case report involving 30-year-old immunocompetent male with C. gattii induced cryptococcosis. Cytological evaluation of CSF revealed a distinctive morphology for C. gattii, allowing for diagnostic differentiation with C. neoformans.'
 date: 2020-07-01
 venue: 'Journal of Pathology and Infectious Diseases'
