@@ -48,6 +48,10 @@ Extracurricular Involvement
   * Competed in National  Science Bowl Competition hosted by Department of Energy at NASA Jet Propulsion Laboratories
   * Placed in Regional Finals Round (Top 4)
   * Competed in national invitationals including MIT Science Bowl 2020
+* <i>Mock Trial Team Member</i>
+  * Served as Expert Witness and Pre-trial Attorney for 4 consecutive years
+  * Selected as Most Valuable Participant for 3 rounds
+  * Team advanced to semifinals for first time in school history (2020)
 * <i>Co-Founder of The Serving Slice</i> 
   * Community organization aimed to redistribute surplus food, personal protective equipment, hygiene products, and other necessities from local businesses to impacted demographics, especially seniors.
   * Redistributed over 4,500 pounds of meals, 300 hygiene products, 100 3D printed face shields
