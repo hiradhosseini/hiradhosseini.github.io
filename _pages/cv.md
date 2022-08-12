@@ -91,8 +91,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.presentations %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
