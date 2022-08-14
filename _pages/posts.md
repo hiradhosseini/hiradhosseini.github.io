@@ -1,6 +1,6 @@
 ---
 permalink: /posts/
-title: "Page not in menu"
+title: "My Projects"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
 redirect_from: 
