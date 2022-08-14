@@ -7,10 +7,8 @@ redirect_from:
   - "/posts.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+{% include base_path %}
 
-Heading 1
-======
-
-Heading 2
-======
+{% for post in site.posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
