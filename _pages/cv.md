@@ -22,8 +22,8 @@ Education
 | BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | MATH 407: Probability Theory |
 | MUS 102: World Music | BISC 221: Advanced General Biology II   | CSCI 103: Introduction to Computation |
 |GESM 120: Noir Detective Fiction| ITP 256: Blockchain| QBIO 401: Introduction to Computational Analysis of Biological Data |
-| N/A | ITP 104: Web Development | QBIO 490: Multi-omic Data Analysis |
-| N/A | QBIO 105: Quantitative Biology Seminar | N/A |
+| | ITP 104: Web Development | QBIO 490: Multi-omic Data Analysis |
+| | QBIO 105: Quantitative Biology Seminar | |
 |=============================|
 
   * Dean's List (Fall 2021, Spring 2022)
