@@ -17,6 +17,7 @@ Education
 * <i>B.S. in Quantitative Biology, University of Southern California, 2025 (Expected) [UW GPA: 4.00]</i>
   * Dean's List (Fall 2021, Spring 2022)
   * Freshman Science Honors Program
+  
 | Fall 2021 | Spring 2022 | Fall 2022 |
 |:--------|:-------:|--------:|
 | CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CHEM 325A: Organic Chemistry I |
