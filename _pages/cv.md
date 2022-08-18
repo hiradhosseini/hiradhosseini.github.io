@@ -15,8 +15,10 @@ Education
   * AP Coursework: Calculus BC, Physics C: Mechanics, Chemistry, Biology, Statistics, Computer Science Principles, Spanish, Psychology, English Language and Composition, English Literature and Composition, United States History
   * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
 * <i>B.S. in Quantitative Biology, University of Southern California, 2025 (Expected) [UW GPA: 4.00]</i>
-  * Coursework: CSCI 102: Fundamentals of Computation, CHEM 115A/B: Advanced General Chemistry, BISC 220/221: Advanced General Biology, ITP 256: Blockchain, ITP 104: Web Development, QBIO 105: Quantitative Biology Seminar
+  * Completed Coursework: CSCI 102: Fundamentals of Computation, CHEM 115A/B: Advanced General Chemistry, BISC 220/221: Advanced General Biology, ITP 256: Blockchain, ITP 104: Web Development, QBIO 105: Quantitative Biology Seminar
+  * Current Coursework: CHEM 325a: Organic Chemistry A, MATH 407: Probability Theory, CSCI 103: Introduction to Computation, QBIO 401: Introduction to Computational Analysis of Biological Data, QBIO 490: Multi-omic Data Analysis
   * Dean's List (Fall 2021, Spring 2022)
+  * Freshman Science Honors Program
 
 Work Experience
 ======
