@@ -20,9 +20,9 @@ Education
   
 | Fall 2021 | Spring 2022 | Fall 2022 |
 |:--------|:-------:|--------:|
-| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CHEM 325A: Organic Chemistry I |
-| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | MATH 407: Probability Theory |
-| MUS 102: World Music | BISC 221: Advanced General Biology II   | CSCI 103: Introduction to Computation |
+| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation|
+| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I |
+| MUS 102: World Music | BISC 221: Advanced General Biology II   | MATH 407: Probability Theory  |
 |GESM 120: Noir Detective Fiction| ITP 256: Blockchain| QBIO 481: Structural Bioinformatics |
 | MEDS 220: Healthcare Foundations | ITP 104: Web Development | QBIO 490: Multi-omic Data Analysis |
 | | QBIO 105: Quantitative Biology Seminar | |
