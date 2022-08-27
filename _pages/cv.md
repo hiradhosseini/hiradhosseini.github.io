@@ -105,6 +105,6 @@ Publications
 
 Presentations
 ======
-  <ul>{% for post in site.presentations %}
+  <ul>{% for post in site.talks %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
