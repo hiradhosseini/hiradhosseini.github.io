@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+HELLLOO!!!!
 I'm currently a second-year undergraduate student in the [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/) and [Mathematics](https://dornsife.usc.edu/mathematics/) Departments at the University of Southern California. I frequent the Viterbi School of Engineering for my computer science coursework in conjunction with upper-level bioinformatics and mathematics coursework at the Dornsife College of Letters, Arts and Sciences. 
 
 ## Research
