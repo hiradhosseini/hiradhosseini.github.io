@@ -15,4 +15,4 @@ I am a Data Science Researcher involved in the [Predicting What We Breathe](http
 I have previously conducted multiple research projects on cardiovascular computed tomography (CT) at [The Lundquist Institute for Biomedical Innovation](https://lundquist.org/) affiliated with Harbor-UCLA Medical Center. I have also investigated the diagnostic value of core needle biopsies and rare cryptococcal infections at the UCI Department of Pathology and Microbiology.
 
 ## Contact Info
-I would love to connect on [LinkedIn](https://www.linkedin.com/in/hirad-hosseini-1899231b0/) and potentially collaborate on AI/ML and bioinformatics projects. You can also reach out to me via email: [hosseini.hirad@gmail.com](mailto:hosseini.hirad@gmail.com).
+I would love to connect on [LinkedIn](https://www.linkedin.com/in/hirad-hosseini-1899231b0/) and potentially collaborate on AI/ML and bioinformatics projects. You can also reach out to me via email: [hirad [dot] hosseini [at] gmail [dot] com](mailto:hosseini.hirad@gmail.com).
