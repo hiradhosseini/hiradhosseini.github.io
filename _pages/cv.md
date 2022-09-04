@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 
-  * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
 * <b><i>B.S. Quantitative Biology, University of Southern California, 2025 </i></b>
 * <b><i>B.A. Applied and Computational Mathematics, University of Southern California, 2025 (Dual Bachelor's) </i></b>
   * GPA: 4.00
@@ -31,6 +30,8 @@ Education
 
 * <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian</i></b>
   * AP Coursework: Calculus BC, Physics C: Mechanics, Chemistry, Biology, Statistics, Computer Science Principles, Spanish, Psychology, English Language and Composition, English Literature and Composition, United States History
+  * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
+
 
 Research Experience
 ======
