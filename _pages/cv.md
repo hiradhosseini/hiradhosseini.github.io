@@ -30,7 +30,6 @@ Education
 | | QBIO 105: Quantitative Biology Seminar | |
 |=============================|
 
-  
 
 Research Experience
 ======
@@ -51,6 +50,22 @@ Research Experience
   * Involved in an ongoing study of core needle biopsy (CNB) for renal cancers; poster presentation at USCAP Annual Meeting
   * Supervisor: Dr. Min Han, M.D. 
 
+
+Skills
+======
+* Data Science
+  * Tools
+    * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
+    * Reinforcement Learning
+      * OpenAI Gym
+* Geospatial Visualization
+  * Geopandas, Folium, ArcGIS
+* Programming
+  * Python
+  * R 
+  * C++
+  * HTML, CSS, Javascript
+
 Extracurricular Involvement
 ======
 * <i>Science Olympiad Team Member</i>
@@ -70,21 +85,6 @@ Extracurricular Involvement
   * Community organization aimed to redistribute surplus food, personal protective equipment, hygiene products, and other necessities from local businesses to impacted demographics, especially seniors.
   * Redistributed over 4,500 pounds of meals, 300 hygiene products, 100 3D printed face shields
   * Acquired by City of Cerritos Civic Chamber of Commerce 501c3 chapter
-
-Skills
-======
-* Data Science
-  * Tools
-    * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
-    * Reinforcement Learning
-      * OpenAI Gym
-* Geospatial Visualization
-  * Geopandas, Folium, ArcGIS
-* Programming
-  * Python
-  * R 
-  * C++
-  * HTML, CSS, Javascript
 
 
 Awards
