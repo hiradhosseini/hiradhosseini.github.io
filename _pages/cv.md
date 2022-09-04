@@ -32,7 +32,7 @@ Education
 
   
 
-Work Experience
+Research Experience
 ======
 * <i>Data Science Researcher: NASA, City of Los Angeles (August 2021- Present)</i>
   * Funded internship in [Predicting What We Breathe (PWWB) Project](https://airquality.lacity.org/) conducted in collaboration with NASA, CSULA, OpenAQ, and the City of Los Angeles. PWWB has received several NASA grants for Advanced Information Systems and Technology (AIST). 
@@ -73,18 +73,19 @@ Extracurricular Involvement
 
 Skills
 ======
-* Deep Learning 
+* Data Science
   * Tools
     * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
-* Reinforcement Learning
-  * OpenAI Gym
-* Spatial Data Science
-  * CartoPy, Fiona, Geopandas, EarthPy
-* Programming Languages
+    * Reinforcement Learning
+      * OpenAI Gym
+* Geospatial Visualization
+  * Geopandas, Folium, ArcGIS
+* Programming
   * Python
+  * R 
   * C++
   * HTML, CSS, Javascript
-  * R
+
 
 Awards
 ======
