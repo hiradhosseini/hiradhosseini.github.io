@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hirad Hosseini"
   avatar           : "profile.png"
-  bio              : "Second-year undergraduate pursuing B.S. Quantitative Biology & B.A. Applied Mathematics at University of Southern California. Interested in AI/ML & bioinformatics."
+  bio              : "Second-year undergraduate pursuing B.S. Quantitative Biology & B.A. Applied Mathematics at University of Southern California. Interested in ML & bioinformatics."
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UlcGmEcAAAAJ&hl=en"
   email            : "hosseini.hirad@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Hirad-Hosseini"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : "hiradhosseini"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "hirad_hos"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hirad-hosseini-1899231b0"
@@ -109,12 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "hiradhos"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
@@ -265,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-target-blank
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
