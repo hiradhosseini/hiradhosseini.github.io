@@ -18,7 +18,7 @@ Education
   * Dean's List (Fall 2021, Spring 2022)
   * Freshman Science Honors Program
   
-| Fall 2021 | Spring 2022 | Fall 2022 |
+| Fall 2021 | Spring 2022 | Fall 2022 | 
 |:--------|:-------:|--------:|
 | CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation|
 | BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I |
