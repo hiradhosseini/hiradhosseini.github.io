@@ -37,19 +37,19 @@ Research Experience
 * <i>Data Science Researcher: NASA, City of Los Angeles (August 2021- Present)</i>
   * Funded internship in [Predicting What We Breathe (PWWB) Project](https://airquality.lacity.org/){:target="_blank"} conducted in collaboration with NASA, CSULA, OpenAQ, and the City of Los Angeles. PWWB has received several NASA grants for Advanced Information Systems and Technology (AIST). 
   * My work focuses on leveraging city-wide low-cost sensor data and state of the art machine learning and artificial intelligence approaches to construct the first Digital Twin City of Los Angeles. Building the first DTC of the city can glean valuable insights into the factors causing air pollution in the city, giving way for machine learning-modulated evidence-based policymaking and governance to ameliorate the iminent health, economic and environmental threats of deteriorating air quality.
-  * Supervisor: Professor Mohammad Pourhomayoun
+  * Mentor: Professor Mohammad Pourhomayoun
 
 * <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/){:target="_blank"}, affiliated with Harbor-UCLA Medical Center (June 2018- May 2021)</i>
   * Involved in 3 projects comparing chest QCT to DXA scans for measuring bone mineral density and vertebral fractures 
   * Six abstracts presented at  Society of Cardiovascular Computed Tomography
   * Participated  in the Summer High School Fellows Program (June 2020) to present obesity and COVID-19 comorbidity research under Dr. Mina Desai, PhD
-  * Supervisor: Professor Matthew Budoff, M.D.
+  * Mentor: Professor Matthew Budoff, M.D.
 
 * <i>Student Researcher: Department of Pathology and Microbiology, UCI Medical Center (June 2020- August 2021)</i>
   * Reviewed medical literature surrounding epidemiology, molecular testing, cytology, and treatment of  rare pathogen Cryptococcus gattii
   * Drafted case report involving clinical presentation of C. gattii and identification through MALDI-TOF spectroscopy and cytology
   * Involved in an ongoing study of core needle biopsy (CNB) for renal cancers; poster presentation at USCAP Annual Meeting
-  * Supervisor: Dr. Min Han, M.D. 
+  * Mentor: Dr. Min Han, M.D. 
 
 
 Skills
@@ -61,13 +61,15 @@ Skills
     * C++
   * Web Development
     * HTML, CSS, Javascript, D3.js
+  * Databases
+    * SQL, SQLite3
 * Data Science
   * General Machine Learning
-    * TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
+    * PyTorch, TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
   * Reinforcement Learning
       * OpenAI Gym
 * Geospatial Visualization
-  * ArcGIS Suite, Geopandas, Folium, ArcPy
+  * ArcGIS Suite, ArcPy, Geopandas, Folium
 * Bioinformatics
   * PDB, PyMol, Biopython
 
