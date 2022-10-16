@@ -108,13 +108,13 @@ Awards
 * <b>Science Olympiad National Genetics Medal</b>- Top 20 at National BearSO Virtual Competition in Designer Genes event    
 * <b>MIT Science Bowl Playoff Round Qualifier</b>- Qualified for Playoffs (Top 16) at National MIT Invitational competition
 
-Publications
+Abstracts and Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Presentations
+Poster Presentations
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-cv.html %}
