@@ -18,7 +18,7 @@ Education
   * Freshman Science Honors Program
   
 | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023
-|:--------|:-------:|--------:|--------:|
+|:--------:|:-------:|:--------:|:--------:|
 | CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II
 | BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences
 | MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction
