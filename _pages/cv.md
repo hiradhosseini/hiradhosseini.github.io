@@ -17,14 +17,14 @@ Education
   * Dean's List (Fall 2021, Spring 2022, Fall 2022, Spring 2023)
   * Freshman Science Honors Program
   
-| Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023
-|:--------:|:-------:|:--------:|:--------:|
-| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II
-| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences
-| MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction
-|GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine
-| MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology 
-| | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine
+| Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 |
+|:--------:|:-------:|:--------:|:--------:|:-------:|
+| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II | CHEM 350: Molecular Principles of Biochemistry
+| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences | QBIO 475: Statistical & Evolutionary Genetics
+| MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction | QBIO 401: Computational Analysis of Biological Data
+|GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine | QBIO 493: Honors Seminar
+| MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology | ITP 216: Applied Python
+| | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems
 |=============================|
 
 * <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian</i></b>
