@@ -1,7 +1,7 @@
 ---
 title: 'What is a Digital Twin City and Why It Matters'
 date: 2022-10-15
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/digital_twins/
 tags:
   - cool posts
   - category1

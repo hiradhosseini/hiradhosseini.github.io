@@ -1,7 +1,7 @@
 ---
 title: 'The RNA Folding Problem'
 date: 2022-10-15
-permalink: /posts/2013/08/blog-post-2/
+permalink: /posts/rna_folding/
 tags:
   - cool posts
   - category1

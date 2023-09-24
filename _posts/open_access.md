@@ -1,7 +1,7 @@
 ---
 title: 'Validation That Sharing Science Works'
 date: 2022-10-15
-permalink: /posts/2014/08/blog-post-3/
+permalink: /posts/open_access/
 tags:
   - cool posts
   - category1
