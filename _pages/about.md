@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a third-year undergraduate student in the [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/){:target="_blank"} Department at the University of Southern California. I frequent the Viterbi School of Engineering for my computer science coursework in conjunction with upper-level bioinformatics coursework at the Dornsife College of Letters, Arts and Sciences. 
+I'm currently Progressive Master's student in the [Quantitative and Computational Biology](https://www.qcb-dornsife.usc.edu/){:target="_blank"} Department at the University of Southern California. I frequent the Viterbi School of Engineering for my computer science coursework in conjunction with upper-level bioinformatics coursework at the Dornsife College of Letters, Arts and Sciences. 
 
 ## Research
 I currenlty work at the [Rohs Lab](https://www.rohslab.org/){:target="_blank"} in the Quantitative & Computational Biology department. I am a contributor to an ongoing project in the visualization of RNA-protein complexes. 
