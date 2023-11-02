@@ -13,7 +13,6 @@ Education
 ======
 
 * <b><i>M.S. Quantitative & Computational Biology, University of Southern California, 2025 </i></b>
-  * GPA: N/A
   * Approved to pursue a concurrent Master’s degree program in Quantitative and Computational Biology beginning Spring 2024. This program enables me to pursue advanced coursework in computer science, biology, physics, and chemistry to supplement my research pursuits.
 
 
@@ -32,7 +31,7 @@ Education
 | | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems
 |=============================|
 
-* <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian</i></b>
+* <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian, National Merit Scholar</i></b>
   * AP Coursework: Calculus BC, Physics C: Mechanics, Chemistry, Biology, Statistics, Computer Science Principles, Spanish, Psychology, English Language and Composition, English Literature and Composition, United States History
   * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
 
