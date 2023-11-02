@@ -65,22 +65,20 @@ Skills
 ======
 * Programming
   * General
-    * Python
-    * R 
-    * C++
+    * Python, R, C++
   * Web Development
-    * HTML, CSS, Javascript, D3.js
+    * HTML, CSS, Javascript, D3.js, React, Django
   * Databases
     * SQL, SQLite3
 * Data Science
-  * General Machine Learning
+  * Classical Machine Learning & Deep Learning
     * PyTorch, TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Matplotlib
   * Reinforcement Learning
       * OpenAI Gym
 * Geospatial Visualization
   * ArcGIS Suite, ArcPy, Geopandas, Folium
 * Bioinformatics
-  * PDB, PyMol, Biopython
+  * PDB, PyMol, Biopython, pyPDB
 
 
 Extracurricular Involvement
