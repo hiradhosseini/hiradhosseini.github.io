@@ -24,13 +24,23 @@ Education
   * Freshman Science Honors Program
   
 | Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024
-|:--------:|:-------:|:--------:|:--------:|:-------:|
+|:--------:|:-------:|:--------:|:--------:|:-------:| 
 | CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II | CHEM 350: Molecular Principles of Biochemistry | QBIO 502: Molecular Biology 
 | BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences | QBIO 475: Statistical & Evolutionary Genetics | QBIO 499: AI & ML in Biology
 | MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction | QBIO 401: Computational Analysis of Biological Data | MEDS 520: Medical Spanish
 |GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine | QBIO 493: Honors Seminar | QBIO 494: Honors Thesis 
 | MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology | ITP 216: Applied Python | MEDS 340: The Brain in Health and Disease
 | | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems | MEDS 440: Surgical Principles
+|=============================|
+
+| Spring 2024 |||||
+|:--------:|:-------:|:--------:|:--------:|:-------:| 
+| QBIO 502: Molecular Biology for Quantitative Scientists | | | | 
+| QBIO 499: AI & ML in Biology and Medicine | | | |
+| MEDS 520: Medical Spanish for the Health Professions | | | | 
+| QBIO 494: Honors Thesis | | | | 
+| MEDS 340: The Brain in Health and Disease | | | |
+| MEDS 440: Intro. Surgical Principles | | | |
 |=============================|
 
 * <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian, National Merit Scholar</i></b>
