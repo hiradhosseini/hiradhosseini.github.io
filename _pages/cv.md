@@ -33,14 +33,14 @@ Education
 | | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems | MEDS 440: Surgical Principles
 |=============================|
 
-| Spring 2024 |||||
-|:--------:|:-------:|:--------:|:--------:|:-------:| 
-| QBIO 502: Molecular Biology for Quantitative Scientists | | | | 
-| QBIO 499: AI & ML in Biology and Medicine | | | |
-| MEDS 520: Medical Spanish for the Health Professions | | | | 
-| QBIO 494: Honors Thesis | | | | 
-| MEDS 340: The Brain in Health and Disease | | | |
-| MEDS 440: Intro. Surgical Principles | | | |
+| Spring 2024 | Fall 2024 |
+|:--------:|:-------:| 
+| QBIO 502: Molecular Biology for Quantitative Scientists | WRIT 340: Advanced Writing |
+| QBIO 499: AI & ML in Biology and Medicine | ITP 342: iOS App Development |
+| MEDS 520: Medical Spanish for the Health Professions | QBIO 577: Computational Molecular Biology Lab | 
+| QBIO 494: Honors Thesis | QBIO 590: Directed Research | 
+| MEDS 340: The Brain in Health and Disease | QBIO 542: Seminar in Computational Biology | 
+| MEDS 440: Intro. Surgical Principles | QBIO 547: Ethics & Professionalism in Computational Biology |
 |=============================|
 
 * <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian, National Merit Scholar</i></b>
