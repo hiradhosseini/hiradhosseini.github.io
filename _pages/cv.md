@@ -23,14 +23,14 @@ Education
   * Dean's List (Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024)
   * Freshman Science Honors Program
   
-| Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 | Spring 2024
+| Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 |
 |:--------:|:-------:|:--------:|:--------:|:-------:| 
-| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II | CHEM 350: Molecular Principles of Biochemistry | QBIO 502: Molecular Biology 
-| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences | QBIO 475: Statistical & Evolutionary Genetics | QBIO 499: AI & ML in Biology
-| MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction | QBIO 401: Computational Analysis of Biological Data | MEDS 520: Medical Spanish
-|GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine | QBIO 493: Honors Seminar | QBIO 494: Honors Thesis 
-| MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology | ITP 216: Applied Python | MEDS 340: The Brain in Health and Disease
-| | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems | MEDS 440: Surgical Principles
+| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II | CHEM 350: Molecular Principles of Biochemistry |  
+| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences | QBIO 475: Statistical & Evolutionary Genetics | 
+| MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction | QBIO 401: Computational Analysis of Biological Data | 
+|GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine | QBIO 493: Honors Seminar | 
+| MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology | ITP 216: Applied Python | 
+| | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems | 
 |=============================|
 
 | Spring 2024 | Fall 2024 |
@@ -52,25 +52,25 @@ Research Experience
 ======
 
 * <i>Student Researcher: Rohs Lab, Department of Quantitative & Computational Biology, USC (September 2022- Present)</i>
-  * Contributing to the implementation of RNAproDB, which is a database, structure processing pipeline and web-based visualization tool which makes structural analysis of RNA-protein complexes easy.
-  * Mentor: Prof. Remo Rohs 
+  * Contributing to the implementation of RNAproDB, which is a database, structure processing pipeline and web-based visualization tool which makes structural analysis of RNA-protein complexes easy ([Check it out!](https://rohslab.usc.edu/rnaprodb/){:target="_blank"})
+  * Mentor: Professor Remo Rohs 
 
-* <i>Data Science Researcher: NASA, City of Los Angeles (August 2021- July 2023)</i>
+* <i>Data Science Researcher: NASA, City of Los Angeles (October 2021 - July 2023)</i>
   * Funded internship in [Predicting What We Breathe (PWWB) Project](https://airquality.lacity.org/){:target="_blank"} conducted in collaboration with NASA, CSULA, OpenAQ, and the City of Los Angeles. PWWB has received several NASA grants for Advanced Information Systems and Technology (AIST). 
   * My work focused on leveraging city-wide low-cost sensor data and state of the art machine learning and artificial intelligence approaches to construct the first Digital Twin City of Los Angeles. Building the first DTC of the city can glean valuable insights into the factors causing air pollution in the city, giving way for machine learning-modulated evidence-based policymaking and governance to ameliorate the iminent health, economic and environmental threats of deteriorating air quality.
   * Mentor: Professor Mohammad Pourhomayoun
 
-* <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/){:target="_blank"}, affiliated with Harbor-UCLA Medical Center (June 2018- May 2021)</i>
+* <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/){:target="_blank"}, affiliated with Harbor-UCLA Medical Center (June 2019 - January 2021)</i>
   * Involved in 3 projects comparing chest QCT to DXA scans for measuring bone mineral density and vertebral fractures 
   * Six abstracts presented at  Society of Cardiovascular Computed Tomography
   * Participated  in the Summer High School Fellows Program (June 2020) to present obesity and COVID-19 comorbidity research under Dr. Mina Desai, PhD
   * Mentor: Professor Matthew Budoff, M.D.
 
-* <i>Student Researcher: Department of Pathology and Microbiology, UCI Medical Center (June 2020- August 2021)</i>
-  * Reviewed medical literature surrounding epidemiology, molecular testing, cytology, and treatment of  rare pathogen Cryptococcus gattii
+* <i>Student Researcher: Department of Pathology and Microbiology, UCI Medical Center (May 2020 - July 2020)</i>
+  * Reviewed medical literature in tropical disease epidemiology, molecular testing, cytology, and treatment of rare pathogen Cryptococcus gattii
   * Drafted case report involving clinical presentation of C. gattii and identification through MALDI-TOF spectroscopy and cytology
-  * Involved in an ongoing study of core needle biopsy (CNB) for renal cancers; poster presentation at USCAP Annual Meeting
-  * Mentor: Dr. Min Han, M.D. 
+  * Investigated efficacy of core needle biopsies for classifying and triaging small renal masses (published in BMC Urology)
+  * Mentor: Dr. Min Han, M.D., Ph.D.
 
 
 Skills
