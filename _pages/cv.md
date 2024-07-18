@@ -55,7 +55,7 @@ Research Experience
   * Contributing to the implementation of RNAproDB, which is a database, structure processing pipeline and web-based visualization tool which makes structural analysis of RNA-protein complexes easy ([Check it out!](https://rohslab.usc.edu/rnaprodb/){:target="_blank"})
   * Mentor: Professor Remo Rohs 
 
-* <i>Data Science Researcher: NASA, City of Los Angeles (October 2021 - July 2023)</i>
+* <i>Data Science Researcher: CSULA, NASA, City of Los Angeles (October 2021 - July 2023)</i>
   * Funded internship in [Predicting What We Breathe (PWWB) Project](https://airquality.lacity.org/){:target="_blank"} conducted in collaboration with NASA, CSULA, OpenAQ, and the City of Los Angeles. PWWB has received several NASA grants for Advanced Information Systems and Technology (AIST). 
   * My work focused on leveraging city-wide low-cost sensor data and state of the art machine learning and artificial intelligence approaches to construct the first Digital Twin City of Los Angeles. Building the first DTC of the city can glean valuable insights into the factors causing air pollution in the city, giving way for machine learning-modulated evidence-based policymaking and governance to ameliorate the iminent health, economic and environmental threats of deteriorating air quality.
   * Mentor: Professor Mohammad Pourhomayoun
