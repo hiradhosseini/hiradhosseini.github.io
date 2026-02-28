@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hirad Hosseini"
 title_separator          : "-"
 name                     : &name "Hirad Hosseini"
-description              : &description "Pursuing B.S./M.S. in Quantitative Biology at University of Southern California."
+description              : &description "M1 at Keck School of Medicine of USC."
 url                      : https://hiradhosseini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hiradhosseini.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hirad Hosseini"
   avatar           : "profile.png"
-  bio              : "B.S./M.S. Quantitative & Computational Biology at University of Southern California."
+  bio              : "M1 at Keck School of Medicine of USC"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UlcGmEcAAAAJ&hl=en"
-  email            : "hirad@presumably.net"
+  email            : "hiradhos@usc.edu"
   researchgate     : "https://www.researchgate.net/profile/Hirad-Hosseini"
   uri              :
   bitbucket        :

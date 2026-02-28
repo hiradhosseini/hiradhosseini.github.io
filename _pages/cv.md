@@ -12,65 +12,45 @@ redirect_from:
 Education
 ======
 
+* <b><i>M.D. Candidate (M1), Keck School of Medicine of USC<i><b>
+  * **Recognitions:** Dean's Recruitment Scholarship
+
 * <b><i>M.S. Quantitative & Computational Biology, University of Southern California, 2025 </i></b>
+  * **Thesis:** Deep Learning for Image-Based Quality Assessment of Human Retinal Organoids (Nagiel Laboratory, CHLA, Mentored by: Dr. Aaron Nagiel M.D., Ph.D., Dr. Leila Bahmani, Ph.D.)
+  * **Relevant Coursework:** Machine Learning for Data Science, Computational Molecular Biology Lab, AI and Machine Learning in Biology and Medicine, Molecular Biology for Quantitative Scientists, Ethics and Professional Conduct in Computational Biology
   * GPA: 4.00
-  * Approved to pursue a concurrent Master’s degree program in Quantitative and Computational Biology beginning Spring 2024. This program enables me to pursue advanced coursework in computer science, biology, physics, and chemistry to supplement my research pursuits.
+
 
 
 * <b><i>B.S. Quantitative Biology, University of Southern California, 2025 </i></b>
+  * **Relevant Coursework**: Advanced General Biology I/II, Advanced General Chemistry I/II, Organic Chemistry I/II, Intro to Computation (C++), Structural Bioinformatics, Statistics for Quantitative Biologists, Multi-Omic Data Analysis, Multivariable Calculus, Linear Algebra and Differential Equations, Statistical and Evolutionary Genetics, Intro to Computational Analysis of Biological Data, Computational Genome Analysis, Data Structures & Algorithms
+
+  * **Recognitions:** Phi Beta Kappa, Renaissance Scholar, Trustee Scholarship (Full-Tuition Merit-Based, Awarded to ~100 of 80,000 annual applicants), Dean's List (x8 semesters)
   * GPA: 4.00
-  * Phi Beta Kappa, Trustee Scholarship (Full-Tuition Merit-Based, Awarded to ~100 of 80,000 annual applicants)
-  * Dean's List (Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023, Spring 2024)
-  * Freshman Science Honors Program
-  
-| Fall 2021 | Spring 2022 | Fall 2022 | Spring 2023 | Fall 2023 |
-|:--------:|:-------:|:--------:|:--------:|:-------:| 
-| CHEM 115A: Advanced General Chemistry I | CSCI 102: Fundamentals of Computation   | CSCI 103: Introduction to Computation| CHEM 325B: Organic Chemistry II | CHEM 350: Molecular Principles of Biochemistry |  
-| BISC 121: Advanced General Biology I  | CHEM 115B: Advanced General Chemistry II  | CHEM 325A: Organic Chemistry I | PHYS 135A: Mechanics for the Life Sciences | QBIO 475: Statistical & Evolutionary Genetics | 
-| MUS 102: World Music | BISC 221: Advanced General Biology II   | QBIO 481: Structural Bioinformatics  | MEDS 350: Neurochemistry of Addiction | QBIO 401: Computational Analysis of Biological Data | 
-|GESM 120: Noir Detective Fiction| ITP 256: Blockchain | QBIO 490: Multi-omic Data Analysis   | MEDS 280: The History of Medicine | QBIO 493: Honors Seminar | 
-| MEDS 220: Healthcare Foundations | ITP 104: Web Development | | QBIO 310: Statistical Thinking for Quantitative Biology | ITP 216: Applied Python | 
-| | QBIO 105: Quantitative Biology Seminar | | MEDS 225: Professionalism and the Practice of Medicine | MEDS 405: Healthcare Systems | 
-|=============================|
-
-| Spring 2024 | Fall 2024 |
-|:--------:|:-------:| 
-| QBIO 502: Molecular Biology for Quantitative Scientists | WRIT 340: Advanced Writing |
-| QBIO 499: AI & ML in Biology and Medicine | ITP 342: iOS App Development |
-| MEDS 520: Medical Spanish for the Health Professions | QBIO 577: Computational Molecular Biology Lab | 
-| QBIO 494: Honors Thesis | QBIO 590: Directed Research | 
-| MEDS 340: The Brain in Health and Disease | QBIO 542: Seminar in Computational Biology | 
-| MEDS 440: Intro. Surgical Principles | QBIO 547: Ethics & Professionalism in Computational Biology |
-|=============================|
-
-* <b><i>Gretchen Whitney High School (UW GPA: 4.0), Valedictorian, National Merit Scholar</i></b>
-  * AP Coursework: Calculus BC, Physics C: Mechanics, Chemistry, Biology, Statistics, Computer Science Principles, Spanish, Psychology, English Language and Composition, English Literature and Composition, United States History
-  * Dual Enrollment Coursework: Linear Algebra and Partial Differential Equations (Cal Poly San Luis Obispo), Multivariate Calculus (Cypress College)
-
 
 Research Experience
 ======
 
-* <i>Student Researcher: Rohs Lab, Department of Quantitative & Computational Biology, USC (September 2022- Present)</i>
+* <i>Student Researcher: Rohs Lab, Department of Quantitative & Computational Biology, USC (2022-2025)</i>
   * Contributing to the implementation of RNAproDB, which is a database, structure processing pipeline and web-based visualization tool which makes structural analysis of RNA-protein complexes easy ([Check it out!](https://rohslab.usc.edu/rnaprodb/){:target="_blank"})
-  * Mentor: Professor Remo Rohs 
+  * **Mentor:** Professor Remo Rohs, Ph.D.
 
-* <i>Data Science Researcher: CSULA, NASA, City of Los Angeles (October 2021 - July 2023)</i>
+* <i>Data Science Researcher: CSULA, NASA, City of Los Angeles (2021 -2023)</i>
   * Funded internship in [Predicting What We Breathe (PWWB) Project](https://airquality.lacity.org/){:target="_blank"} conducted in collaboration with NASA, CSULA, OpenAQ, and the City of Los Angeles. PWWB has received several NASA grants for Advanced Information Systems and Technology (AIST). 
   * My work focused on leveraging city-wide low-cost sensor data and state of the art machine learning and artificial intelligence approaches to construct the first Digital Twin City of Los Angeles. Building the first DTC of the city can glean valuable insights into the factors causing air pollution in the city, giving way for machine learning-modulated evidence-based policymaking and governance to ameliorate the iminent health, economic and environmental threats of deteriorating air quality.
-  * Mentor: Professor Mohammad Pourhomayoun
+  * **Mentor:** Professor Mohammad Pourhomayoun, Ph.D.
 
-* <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/){:target="_blank"}, affiliated with Harbor-UCLA Medical Center (June 2019 - January 2021)</i>
+* <i>Student Researcher: [Lundquist Institute for Biomedical Innovation](https://lundquist.org/){:target="_blank"}, affiliated with Harbor-UCLA Medical Center (2019-2021)</i>
   * Involved in 3 projects comparing chest QCT to DXA scans for measuring bone mineral density and vertebral fractures 
   * Six abstracts presented at  Society of Cardiovascular Computed Tomography
   * Participated  in the Summer High School Fellows Program (June 2020) to present obesity and COVID-19 comorbidity research under Dr. Mina Desai, PhD
-  * Mentor: Professor Matthew Budoff, M.D.
+  * **Mentor:** Professor Matthew Budoff, M.D.
 
-* <i>Student Researcher: Department of Pathology and Microbiology, UCI Medical Center (May 2020 - July 2020)</i>
+* <i>Student Researcher: Department of Pathology and Microbiology, UCI Medical Center (2020-2021)</i>
   * Reviewed medical literature in tropical disease epidemiology, molecular testing, cytology, and treatment of rare pathogen Cryptococcus gattii
   * Drafted case report involving clinical presentation of C. gattii and identification through MALDI-TOF spectroscopy and cytology
   * Investigated efficacy of core needle biopsies for classifying and triaging small renal masses (published in BMC Urology)
-  * Mentor: Dr. Min Han, M.D., Ph.D.
+  * **Mentor:** Dr. Min Han, M.D., Ph.D.
 
 
 Skills
