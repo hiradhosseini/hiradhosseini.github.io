@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hirad Hosseini</title>
+  <link rel="stylesheet" href="https://latex.vercel.app/style.css" />
+  <style>
+    body {
+      font-size: 1.15rem;
+      max-width: 1100px;
+    }
+    .portrait {
+      display: block;
+      width: 160px;
+      height: 160px;
+      margin: 1.5rem auto;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #aaa;
+    }
+    .portrait-placeholder {
+      width: 160px;
+      height: 160px;
+      margin: 1.5rem auto;
+      border-radius: 50%;
+      background-color: #d0d0d0;
+      border: 2px solid #aaa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      color: #666;
+      font-style: italic;
+      text-align: center;
+      line-height: 1.4;
+    }
+    .links {
+      text-align: center;
+      margin: 0.5rem 0 1.5rem;
+      font-size: 0.95rem;
+    }
+    .links a {
+      margin: 0 0.4rem;
+    }
+  </style>
+</head>
+
+<body class="text-justify">
+  <header>
+    <h1>Hirad Hosseini</h1>
+    <p class="author">
+      M1, Keck School of Medicine of USC<br />
+      Fascinated by leveraging computational tools and approaches to solve clinical problems
+    </p>
+  </header>
+
+  <main>
+    <article>
+
+      <img src="images/me.png" alt="Hirad Hosseini" class="portrait"
+           onerror="this.style.display='none';this.nextElementSibling.style.display='flex';" />
+      <div class="portrait-placeholder" style="display:none;">[portrait]</div>
+
+      <div class="links">
+        <a href="mailto:hiradhos@usc.edu">Email</a> ·
+        <a href="https://scholar.google.com/citations?user=UlcGmEcAAAAJ&hl=en">Google Scholar</a> ·
+        <a href="https://github.com/hiradhosseini">GitHub</a> ·
+        <a href="https://orcid.org/0000-0003-3854-0347">ORCID</a> ·
+        <a href="https://www.researchgate.net/profile/Hirad-Hosseini">ResearchGate</a>
+      </div>
+
+      <p>
+        I am a first-year medical student (M1) at the
+        <a href="https://keck.usc.edu/">Keck School of Medicine of USC</a>, having previously completed my 
+        B.S./M.S. at USC (5 Trojan years and counting...)  My research interests lie at 
+        the intersection of machine learning, bioinformatics, and medicine, with a focus on building
+        computational tools to understand and predict biomedical phenomena.
+      </p>
+
+      <p>
+        I am currently tackling two problems. At the
+        <a href="https://nagiellab.org/">Nagiel Laboratory</a> at Children's Hospital Los Angeles,
+        I use brightfield microscopy images of human retinal organoids to predict their future
+        developmental quality using deep learning. In the USC Department of Urology, I work under
+        Dr. Mitchell Goldenberg applying computer vision and deep learning to quantify intraoperative
+        blood loss during retroperitoneal partial nephrectomy (RPN), as well as testing vision language
+        models for assessing prognostic yield during lateral pelvic node dissection
+        (LPND) in robot-assisted radical prostatectomy (RARP).
+      </p>
+
+      <p>
+        Previously, I contributed to the <a href="https://rohslab.usc.edu/">Rohs Lab</a> at USC,
+        where I helped develop <a href="https://rohslab.usc.edu/rnaprodb/">RNAproDB</a>, a
+        database and visualization tool for RNA-protein complex structures. Before that, I worked
+        under Dr. Mohammad Pourhomayoun on the
+        <a href="https://airquality.lacity.org/">Predicting What We Breathe</a> project, where I
+        helped build the first Digital Twin of the City of Los Angeles to monitor PM2.5 levels
+        using a dense network of low-cost air quality sensors and to forecast future air quality from
+        historical data. I also helped translate those predictions into epidemiological forecasts
+        for prevalent conditions linked to air pollution, including asthma, lung cancer, and
+        congenital defects.
+      </p>
+
+      <p>
+        I'd be happy to discuss most things that interest you. You can reach me at
+        <a href="mailto:hiradhos@usc.edu">hiradhos [at] usc [dot] edu</a>.
+      </p>
+
+      <h2>Latest Papers</h2>
+      <div id="latest-papers"><em>Loading...</em></div>
+
+    </article>
+  </main>
+
+  <script>
+    document.querySelectorAll('a[href^="http"]').forEach(a => {
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+    });
+  </script>
+  <script>
+    async function loadLatestPapers() {
+      const container = document.getElementById('latest-papers');
+      try {
+        const authorId = '2267196564'; // Hirad Hosseini on Semantic Scholar
+
+        // Fetch their papers with relevant fields
+        const papersRes = await fetch(
+          `https://api.semanticscholar.org/graph/v1/author/${authorId}/papers` +
+          `?fields=title,year,venue,publicationVenue,externalIds,openAccessPdf&limit=50`
+        );
+        const papersData = await papersRes.json();
+
+        const papers = (papersData.data || [])
+          .filter(p => p.year && p.title)
+          .sort((a, b) => b.year - a.year)
+          .slice(0, 3);
+
+        if (papers.length === 0) throw new Error('No papers found');
+
+        container.innerHTML = '';
+        const ol = document.createElement('ol');
+
+        papers.forEach(paper => {
+          const doi = paper.externalIds?.DOI;
+          const url = doi
+            ? `https://doi.org/${doi}`
+            : paper.openAccessPdf?.url
+            ?? `https://www.semanticscholar.org/paper/${paper.paperId}`;
+
+          const venue = paper.publicationVenue?.name || paper.venue || 'Preprint';
+
+          const li = document.createElement('li');
+          li.style.marginBottom = '0.5rem';
+          li.innerHTML = `<a href="${url}" target="_blank" rel="noopener noreferrer">${paper.title}</a>. `
+                       + `<em>${venue}</em> (${paper.year}).`;
+          ol.appendChild(li);
+        });
+
+        container.appendChild(ol);
+      } catch (err) {
+        container.innerHTML =
+          `Could not load papers automatically. ` +
+          `<a href="https://scholar.google.com/citations?user=UlcGmEcAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">` +
+          `View on Google Scholar</a>.`;
+      }
+    }
+
+    loadLatestPapers();
+  </script>
+</body>
+
+</html>
